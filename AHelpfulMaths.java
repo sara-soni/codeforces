@@ -8,7 +8,7 @@ public class AHelpfulMaths{
         boolean first= true;
         for(int i=0;i <ch.length;i++){
             if(ch[i] != '+'){
-                if(!first){
+                if(!first){''
                     System.out.print('+');
                 }
             System.out.print(ch[i]);
